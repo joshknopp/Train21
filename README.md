@@ -8,4 +8,5 @@ The code is sloppy and was hacked together very quickly; it needs much optimizat
 Future enhancements may include:
 
 -Persistence mechanism for tracking right/wrong responses
+
 -Logic to repeat hands that were played incorrectly
